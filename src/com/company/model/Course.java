@@ -18,6 +18,9 @@ public class Course {
     public <R> Course(String s, long parseLong, int parseInt, int parseInt1, R collect) {
     }
 
+    public Course(long id, String name, int maxEnroll) {
+    }
+
 
     /**
      * Getter name
